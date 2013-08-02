@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.googlecode.givwenzen</groupId>
+  <artifactId>givwenzen</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.5-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130802185811</lastUpdated>
+  </versioning>
+</metadata>
